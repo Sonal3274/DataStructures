@@ -3,7 +3,7 @@ This repository is a collection of data structures.
 
 # Included Data Structures
 - [x] Array
-- [ ] Stack
+- [x] Stack
 - [ ] Queue
 - [ ] LinkedList
 
