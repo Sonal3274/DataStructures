@@ -10,7 +10,7 @@ fun main() {
         println("$i - $e")
     }
 
-    //ways of printing ana array
+    //ways of printing an array
     println(arr[0])
     println(arr.get(1))
 
