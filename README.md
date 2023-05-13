@@ -5,7 +5,7 @@ This repository is a collection of data structures.
 - [x] Array
 - [x] Stack
 - [x] Mutable Queue
-- [ ] Priority Queue
+- [x] Priority Queue
 - [x] Mutable LinkedList
 - [ ] Immutable LinkedList
 

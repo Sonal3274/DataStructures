@@ -46,9 +46,9 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.PriorityQueueKt">
-    <configuration name="ArrayKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayKt" />
+  <component name="RunManager" selected="Kotlin.AnotherPriorityQueueKt">
+    <configuration name="AnotherPriorityQueueKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AnotherPriorityQueueKt" />
       <module name="DataStructures.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -84,11 +84,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.AnotherPriorityQueueKt" />
         <item itemvalue="Kotlin.PriorityQueueKt" />
         <item itemvalue="Kotlin.MutableQueueKt" />
         <item itemvalue="Kotlin.MutableLinkedListKt" />
         <item itemvalue="Kotlin.StackKt" />
-        <item itemvalue="Kotlin.ArrayKt" />
       </list>
     </recent_temporary>
   </component>
