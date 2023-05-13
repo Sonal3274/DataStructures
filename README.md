@@ -7,7 +7,7 @@ This repository is a collection of data structures.
 - [x] Mutable Queue
 - [x] Priority Queue
 - [x] Mutable LinkedList
-- [ ] Immutable LinkedList
+- [x] Immutable LinkedList
 
 # Getting Started
 
