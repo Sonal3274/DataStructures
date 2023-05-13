@@ -1,4 +1,4 @@
-class Queue{
+class MutableQueue{
     val queueArray = mutableListOf<Int>()
 
     fun enque(item: Int){
@@ -28,7 +28,7 @@ class Queue{
 }
 
 fun main() {
-    val queue = Queue()
+    val queue = MutableQueue()
     queue.enque(3)
     queue.enque(5)
     queue.enque(2)

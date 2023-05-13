@@ -4,8 +4,10 @@ This repository is a collection of data structures.
 # Included Data Structures
 - [x] Array
 - [x] Stack
-- [x] Queue
-- [ ] LinkedList
+- [x] Mutable Queue
+- [ ] Priority Queue
+- [x] Mutable LinkedList
+- [ ] Immutable LinkedList
 
 # Getting Started
 
